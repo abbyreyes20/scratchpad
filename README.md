@@ -1,3 +1,3 @@
 # scratchpad
 
-this is my area to play and change.
+This is my area to play and change.
